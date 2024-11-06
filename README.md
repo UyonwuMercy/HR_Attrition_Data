@@ -1,4 +1,4 @@
-# HR_Data_Attrition
+# HR_Data_Attrition 
 
 ## Overview
 This project repository is designed to analyze HR Attrition Data, offering insights into employee demographics, job satisfaction, and attrition trends. By leveraging Excel for data preparation and Power BI for advanced visualization, this project delivers actionable insights for HR teams to improve employee engagement and retention.
